@@ -1,0 +1,26 @@
+{
+    "id": "592C75C6",
+    "path": "D:/learning/06_github-add/01_causal_inference_course/02_inverse-probability-of-treatment-weighting/00_inverse_probability_of_treatment_weighting.R",
+    "project_path": "02_inverse-probability-of-treatment-weighting/00_inverse_probability_of_treatment_weighting.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1667431215472.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1667431222,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1667431222317,
+    "read_only": false,
+    "read_only_alternatives": []
+}
